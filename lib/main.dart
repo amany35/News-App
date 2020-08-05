@@ -6,7 +6,7 @@ import 'package:newsapp/Screens/List_screen.dart';
 void main() => runApp(
     new MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Course Page',
+      title: 'News Page',
       home: ListScreen(),
     ));
 
